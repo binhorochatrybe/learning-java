@@ -1,2 +1,3 @@
-# learning-java
-Here I am going to store all my Java learning
+# My Java Learning Journey.
+
+Here i'll store everything that im learning in Java. :)
